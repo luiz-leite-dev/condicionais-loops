@@ -1,0 +1,15 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Configurações locais do VSCode
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
